@@ -1,0 +1,17 @@
+{
+    "name": "root/web_app_template",
+    "autoload": {
+        "psr-4": {
+            "Root\\WebAppTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fahad",
+            "email": "fahad.mohammed@azubiafrica.org"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.263"
+    }
+}
